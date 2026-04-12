@@ -25,7 +25,11 @@ This project analyzes the financial performance of selected African banks from 2
 * Profitability efficiency declined before recovering
 * Significant differences exist between banks
 
-## 📁 Files Included
+  ## 📊 Visualizations
+
+### Net Profit Trend
+
+![Net Profit](https://raw.githubusercontent.com/franco-Eze/AFRICAN-BANK-ANALYSIS/main/net%20profit%20for%20the%20year.png)
 
 * Excel dataset
 * Chart screenshots
