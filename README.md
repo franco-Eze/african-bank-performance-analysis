@@ -39,8 +39,4 @@ This project analyzes the financial performance of selected African banks from 2
 	•	Growth trend is consistent across banks
 	•	Efficiency varies significantly between institutions
   📊 Dashboard
-  African-Bank-Analysis/
-│
-├── african-bank-performance-analysis.xlsx
-├── dashboard.png
-└── README.md
+!(Dashboard)("Dashboard chart.png")
