@@ -20,23 +20,36 @@ This project analyzes the financial performance of selected African banks from 2
 	•	Data Visualization (Charts)
 
 ⸻
+## 📁 Project Structure
 
+- africa bank analysis.xlsx → Raw dataset
+- Dashboard.png → Visualization dashboard
+- README.md → Project documentation
+- 
 📈 Key Insights
+ Overall
+- Profitability improved significantly after 2021 across most banks
+- Efficiency dropped during 2020, likely due to economic disruptions
+- Commercial International Bank leads in profitability and returns
+- Equity Bank shows strong asset efficiency (ROA)
+- Performance gaps exist between banks, indicating different strategies and market strengths
 
-🔹 Profitability
-	•	Net profit increased across most banks after 2021
-	•	Commercial International Bank leads in profit growth
 
-🔹 ROA (Efficiency)
-	•	Decline observed around 2020, followed by recovery
-	•	Equity Bank shows strong asset utilization
-
-🔹 ROE (Returns)
-	•	Commercial International Bank maintains highest returns
-	•	Standard Bank remains more stable but lower
-
-🔹 Overall
-	•	Growth trend is consistent across banks
-	•	Efficiency varies significantly between institutions
   📊 Dashboard
-![Dashboard](Dashboard.png)
+  📊 Dashboard Overview
+
+The dashboard presents:
+- Net Profit trends (2018–2023)
+- Return on Assets (ROA)
+- Return on Equity (ROE)
+
+It highlights performance differences across selected African banks.![Dashboard](Dashboard.png)
+
+
+🛠 Skills Demonstrated
+
+- Data Cleaning & Preparation
+- Pivot Table Analysis
+- Financial Ratio Analysis (ROA, ROE)
+- Data Visualization
+- Insight Generation & Storytelling
