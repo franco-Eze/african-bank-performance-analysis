@@ -39,4 +39,4 @@ This project analyzes the financial performance of selected African banks from 2
 	•	Growth trend is consistent across banks
 	•	Efficiency varies significantly between institutions
   📊 Dashboard
-!(Dashboard)("Dashboard chart.png")
+![Dashboard](Dashboard.png)
