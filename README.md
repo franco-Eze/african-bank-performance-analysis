@@ -62,3 +62,6 @@ It highlights performance differences across selected African banks.![Dashboard]
 - Financial Ratio Analysis (ROA, ROE)
 - Data Visualization
 - Insight Generation & Storytelling
+
+- Author
+- Eze Francis Afamefuna.
