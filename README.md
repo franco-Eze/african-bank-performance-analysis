@@ -13,7 +13,15 @@ This project analyzes the financial performance of selected African banks from 2
    - Return on Equity (ROE)
 4. Data Visualization – Built charts to show trends and comparisons
 5. Insights – Extracted key performance patterns across banks
-   
+
+
+
+ 📌 Business Problem
+
+Banks operate in different economic environments, and their performance varies based on profitability and efficiency.
+
+This project aims to analyze how selected African banks performed over time and identify key differences in profitability and operational efficiency. 
+
 ⸻
 
 🎯 Objectives
@@ -63,5 +71,12 @@ It highlights performance differences across selected African banks.![Dashboard]
 - Data Visualization
 - Insight Generation & Storytelling
 
-- Author
+
+ 🚀 Conclusion
+
+The analysis shows that while larger banks generate higher profits, efficiency (ROA & ROE) varies significantly, indicating that size does not always translate to better performance.
+
+
+
+Author
 - Eze Francis Afamefuna.
